@@ -1,0 +1,33 @@
+.emailInput {
+  transition: border-color 200ms;
+  border: 2px solid black;
+  outline: 0;
+}
+.emailInput:required:valid {
+  border-color: forestgreen;
+}
+.emailInput:required:invalid:not(:placeholder-shown) {
+  border-color: crimson;
+}
+.contactMain {
+  height: 90vh;
+}
+.select2 {
+  width: 50%;
+}
+.contactForm {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-around;
+  input + label {
+    margin-top: 30px;
+  }
+  label {
+    font-weight: 500;
+    margin-top: 10px;
+  }
+}
+.contactMain {
+  height: 100vh;
+}

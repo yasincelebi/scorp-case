@@ -1,0 +1,59 @@
+.modal {
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  width: 50%;
+  height: 100%;
+  outline: 0;
+  top: 30vh;
+  left: 25vw;
+}
+@media only screen and(max-width:720px) {
+  .modal {
+    left: 0;
+    width: 100%;
+  }
+}
+/* Modal Content/Box */
+.modalContent {
+  background-color: #fefefe;
+  padding: 10px;
+  border: 1px solid #888;
+  width: 100%;
+  margin-right: 0;
+  text-align: center;
+}
+
+/* The Close Button */
+.close {
+  color: #000;
+  float: top;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+.formItems {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  input {
+    width: 50%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5%;
+    &::placeholder {
+      text-align: center;
+    }
+  }
+}
+.aaa {
+  float: right;
+}
+.loginMain {
+  height: 91.1vh;
+}

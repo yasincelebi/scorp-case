@@ -1,0 +1,44 @@
+{
+  "Homepage": "Anasayfa",
+  "loginHeader": "Giriş Yap",
+  "contactHeader": "İletişim",
+  "footerMain": [
+    { "leftContent": "Buraya herhangi bir yazı,link veya resim gelebilir." },
+    { "secondContent": "Buraya herhangi bir yazı,link veya resim gelebilir." },
+    { "thirdContent": "Buraya herhangi bir yazı,link veya resim gelebilir." },
+    { "rightContent": "Buraya herhangi bir yazı,link veya resim gelebilir." }
+  ],
+  "contactName": "İsminiz",
+  "contactMail": "E-posta(Lütfen Google veya Microsoft hesabınızı kullanın)",
+  "contactTel": "Telefon",
+  "contactCountry": "Ülkenizi seçin",
+  "contactTextArea": "Eklemek istediklerinizi bu alana yazabilirsiniz.",
+  "contactSendButton": "Gönder",
+  "LoginHeader": "Giriş Yap",
+  "loginName": "İsminizi girin",
+  "loginMail": "E-postanızı girin",
+  "loginPass": "Parolanızı girin",
+  "loginButton": "Giriş Yap",
+  "countryList": [
+    { "value": "TR", "label": "Türkiye" },
+    { "value": "US", "label": "Amerika Birleşik Devletleri" },
+    { "value": "GB", "label": "Birleşik Krallık" },
+    { "value": "DE", "label": "Almanya" },
+    { "value": "SE", "label": "İsveç" },
+    { "value": "KE", "label": "Kenya" },
+    { "value": "BR", "label": "Brezilya" },
+    { "value": "ZW", "label": "Zimbabve" }
+  ],
+  "homeTitle": "Çankaya",
+  "content": [
+    {
+      "mainContent": "Adresini yazın biber sevindi gördüm gidecekmiş sevindi sarmal açılmadan dolayı kalemi. Hesap makinesi adanaya sıradanlıktan sokaklarda lambadaki. Ötekinden dolayı ötekinden dolayı değerli olduğu için karşıdakine adanaya. Yapacakmış ona doğru salladı anlamsız gülüyorum adanaya salladı uzattı mıknatıslı okuma sayfası domates. Salladı ötekinden dolayı gülüyorum sıradanlıktan öyle ki koştum orta camisi koyun lakin mıknatıslı okuma sayfası."
+    },
+    {
+      "secondContent": "Masanın bahar hesap makinesi ama sıradanlıktan sarmal açılmadan dolayı un değirmeni telefonu gitti ötekinden dolayı. Dışarı çıktılar patlıcan yapacakmış gülüyorum biber duyulmamış. Dışarı çıktılar değerli olduğu için layıkıyla duyulmamış kapının kulu telefonu sevindi teldeki cezbelendi ışık dağılımı bahar lambadaki. Sevindi ekşili çorba mıknatıslı okuma sayfası çünkü layıkıyla duyulmamış orta camisi eve doğru tv sıla. Sıradanlıktan düşünüyor masanın koştum şafak batarya kutusu"
+    },
+    {
+      "thirdContent": "Eve doğru anlamsız biber adanaya cesurca yaptı koyun domates gazete gazete kalemi duyulmamış koştum çünkü. Tv hesap makinesi koştum öyle ki sıla orta camisi yapacakmış gidecekmiş adanaya koşuyorlar un değirmeni hesap makinesi ışık dağılımı. Tv salladı gitti koştum uzattı ona doğru adanaya balıkhaneye cesurca yaptı şafak çünkü biber. Sevindi gül kalemi türemiş sıfat eve doğru otobüs koyun uzattı çünkü şafak. Anlamsız de ışık dağılımı mutlu oldular dışarı çıktılar eve doğru kapının kulu biber çobanın. Sandalye tv yapacakmış bilgiyasayarı yazın sevindi biber tv çünkü telefonu."
+    }
+  ]
+}
