@@ -6,7 +6,7 @@
 
 ##### Clone this repository
 
-`git clone blabla`
+`git clone https://github.com/yasincelebi/scorp-case.git`
 
 ##### Install dependecies
 
